@@ -1,0 +1,32 @@
+[
+  {
+    "city": "London",
+    "date": "24.06.2022",
+    "weather": "облачно, без осадков",
+    "temperature": "20"
+  },
+  {
+    "city": "London",
+    "date": "25.06.2022",
+    "weather": "солнечно",
+    "temperature": "25"
+  },
+  {
+    "city": "London",
+    "date": "26.06.2022",
+    "weather": "дождь",
+    "temperature": "18"
+  },
+  {
+    "city": "London",
+    "date": "27.06.2022",
+    "weather": "переменная облачность",
+    "temperature": "21"
+  },
+  {
+    "city": "London",
+    "date": "28.06.2022",
+    "weather": "град",
+    "temperature": "17"
+  }
+]
